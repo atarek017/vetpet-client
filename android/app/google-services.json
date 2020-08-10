@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1062121126338",
+    "firebase_url": "https://mindful-future-239111.firebaseio.com",
+    "project_id": "mindful-future-239111",
+    "storage_bucket": "mindful-future-239111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062121126338:android:f4a3179782a09506",
+        "android_client_info": {
+          "package_name": "com.inthekloud.vetworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdwDvets5Sd4stXNQrYWAswLxSA2MVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062121126338-rur4i2of2e65i7iefcecf0pg1sg745r0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vetwork.vetworkpartner",
+                "app_store_id": "1111793323"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062121126338:android:ef74374af02ff482",
+        "android_client_info": {
+          "package_name": "com.vetwork.vetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdwDvets5Sd4stXNQrYWAswLxSA2MVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062121126338-rur4i2of2e65i7iefcecf0pg1sg745r0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vetwork.vetworkpartner",
+                "app_store_id": "1111793323"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062121126338:android:68eae51c11141170",
+        "android_client_info": {
+          "package_name": "com.vetwork.vetworkpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdwDvets5Sd4stXNQrYWAswLxSA2MVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062121126338-df2qc6mnbc3d86lqqcedlucen8k1a8q7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062121126338-rur4i2of2e65i7iefcecf0pg1sg745r0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vetwork.vetworkpartner",
+                "app_store_id": "1111793323"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
